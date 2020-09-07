@@ -7,5 +7,4 @@ def add(a,b):
     return a + b
 
 def sub(a, b):
-    c = a - b
-    return c
+    print(a - b)
